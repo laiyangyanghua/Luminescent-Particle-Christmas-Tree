@@ -1,0 +1,7 @@
+{
+  "name": "Luminescent Particle Christmas Tree",
+  "description": "A 3D interactive Christmas tree made of thousands of particles. Supports touch gestures to rotate and tap/click to explode/aggregate the particles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
